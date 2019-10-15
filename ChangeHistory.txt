@@ -1,0 +1,8 @@
+#Tags:Beta Version 1.0
+#Label:2019.10.15
+#Issue:Null
+#Solution:Create the module of read PCI devices.
+#Modified:
+  1.Create ReadPciDevice.c
+  2.Create ReadPciDevice.inf
+  3.Create Exercise.sdl  (only for Aptio V)
